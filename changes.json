@@ -1,0 +1,12 @@
+[
+    {
+        "change_id": "CR002",
+        "title": "Upgrade from Big Sur 11.7 to Monterey 12.7",
+        "resources": "all macbooks provisioned by the IT team via jamf",
+        "implementation_type": "device software upgrade",
+        "affected_teams": ["IT Operations", "Development", "ALL"],
+        "technology": "Jamf Pro",
+        "location": "US",
+        "maintenance_impact": "no maintenance impact"
+    }
+]
